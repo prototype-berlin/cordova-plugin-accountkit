@@ -1,7 +1,8 @@
-[![npm version](https://badge.fury.io/js/cordova-plugin-accountkit.svg)](https://badge.fury.io/js/cordova-plugin-accountkit)
 
-Cordova AccountKit Plugin
+Fork of the Cordova AccountKit Plugin
 ======
+
+This fork fixes compatibility with cordova-plugin-facebook4.
 
 The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountkit.com/).
 
@@ -14,7 +15,7 @@ The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountk
 4. To install the plugin in your app, execute the following (replace variables where necessary):
 
 ```bash
-cordova plugin add cordova-plugin-accountkit --save \
+cordova plugin add https://github.com/prototype-berlin/cordova-plugin-accountkit.git --save \
    --variable APP_ID="123456789" \
    --variable APP_NAME="myApplication" \
    --variable CLIENT_TOKEN="abcdefghijklmnopqrstuvwxyz" \
