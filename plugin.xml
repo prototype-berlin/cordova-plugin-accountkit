@@ -90,6 +90,8 @@
         <framework src="com.facebook.android:account-kit-sdk:4.+"/>
 
         <source-file src="src/android/AccountKitPlugin.java" target-dir="src/org/apache/cordova/facebook" />
+
+        <hook type="before_compile" src="scripts/androidBeforeCompile.js" />
     </platform>
 
     <!-- ios -->
