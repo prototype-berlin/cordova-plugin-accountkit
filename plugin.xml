@@ -2,13 +2,13 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-accountkit"
-    version="1.4.0">
+    version="1.0.0">
     <name>Cordova AccountKit</name>
     <description></description>
     <license>MIT</license>
     <keywords></keywords>
-    <repo>https://github.com/gurisko/cordova-plugin-accountkit.git</repo>
-    <issue>https://github.com/gurisko/cordova-plugin-accountkit/issues</issue>
+    <repo>https://github.com/prototype-berlin/cordova-plugin-accountkit.git</repo>
+    <issue>https://github.com/prototype-berlin/cordova-plugin-accountkit/issues</issue>
 
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
