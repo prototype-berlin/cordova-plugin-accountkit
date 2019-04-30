@@ -1,6 +1,6 @@
 {
   "name": "@prototypeberlin/cordova-plugin-accountkit",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Cordova AccountKit Plugin",
   "cordova": {
     "id": "cordova-plugin-accountkit",
