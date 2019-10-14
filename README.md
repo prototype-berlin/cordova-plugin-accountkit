@@ -2,6 +2,8 @@
 Fork of the Cordova AccountKit Plugin
 ======
 
+# Attention: passport-accountkit-basic-web has been deprecated as Facebook will shut down AccountKit shortly.
+
 This fork fixes compatibility with cordova-plugin-facebook4.
 
 The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountkit.com/).
